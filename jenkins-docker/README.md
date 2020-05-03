@@ -7,10 +7,9 @@ Contenedor docker con Docker y Jenkins dentro.
 ```
 Windows 10
 Docker
-https://hub.docker.com/repository/docker/thomasdocker92/jenkins-test
 ```
 
-## Running
+### Running
 
 Bajar imagen de jenkis-docker, crear contenedor utilizando un volumen local y conectando a docker.sock y por ultimo cambiar los permisos para poder utilizarlo en jenkins. En ubuntu sería diferente el problema de permisos.
 
